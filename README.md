@@ -20,3 +20,8 @@
   <p>Trendy & comfortable.</p>
   <a href="#">Buy Now</a>
 </div>
+<img src="smartphone.jpg" alt="Smartphone">
+<img src="laptop.jpg" alt="Laptop">
+<img src="sneakers.jpg" alt="Sneakers"><img src="images/smartphone.jpg" alt="Smartphone">
+<img src="images/laptop.jpg" alt="Laptop">
+<img src="images/sneakers.jpg" alt="Sneakers">
